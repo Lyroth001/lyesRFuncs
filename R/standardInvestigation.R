@@ -1,5 +1,6 @@
 #' Quickly runs a few useful analysis on a linear model
 #' @param model A linear model
+#' @export
 
 
 standardInvestigation = function(model){

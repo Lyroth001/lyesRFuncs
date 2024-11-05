@@ -1,4 +1,5 @@
 #' Quickly runs a few useful analysis on a linear model
+#' Glance, tidy, model parameters of an anova, and plots
 #' @param model A linear model
 #' @export
 

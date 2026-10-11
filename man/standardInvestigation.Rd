@@ -2,7 +2,8 @@
 % Please edit documentation in R/standardInvestigation.R
 \name{standardInvestigation}
 \alias{standardInvestigation}
-\title{Quickly runs a few useful analysis on a linear model}
+\title{Quickly runs a few useful analysis on a linear model
+Glance, tidy, model parameters of an anova, and plots}
 \usage{
 standardInvestigation(model)
 }
@@ -11,4 +12,5 @@ standardInvestigation(model)
 }
 \description{
 Quickly runs a few useful analysis on a linear model
+Glance, tidy, model parameters of an anova, and plots
 }
